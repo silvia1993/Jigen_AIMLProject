@@ -1,4 +1,4 @@
-# Jigen_AIMLProject  <img src="https://github.com/silvia1993/Jigen_AIMLProject/blob/main/aiml.png" align="right" width="250">
+# Jigen_AIMLProject  <img src="https://github.com/silvia1993/Jigen_AIMLProject/blob/main/aiml.png" align="right" width="200">
 
 Basic code to reproduce DG and DA baselines related to Table 1 and Table 4 of [Jigen official paper](https://arxiv.org/pdf/1903.06864.pdf).
 
